@@ -59,9 +59,9 @@ cards.forEach(card => card.addEventListener('click', flipCard));
 
 //Stopwatch
 
-let seconds = 0;
-let minutes = 0;
-let hours = 0;
+let secondsTime = 0;
+let minutesTime = 0;
+let hoursTime = 0;
 
 
 
